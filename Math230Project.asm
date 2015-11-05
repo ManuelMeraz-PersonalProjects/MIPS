@@ -1,7 +1,7 @@
 # Manuel Meraz ID:0665823
-# Math 140
+# Math 230
 # Project 3
-# DNA LinkStrand
+# Encryption/Descryption
 # Last Revision: 11/1/2015
 
 
